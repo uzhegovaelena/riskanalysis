@@ -1,5 +1,5 @@
 # Risk analysis
-I calculated credit risk RWA and capital requirement for the bank's portfolio. I have to use data from the file [Loan_default]() which contains loans with a status indicator: defaulted(bad) or non-defaulted. 
+I calculated credit risk RWA and capital requirement for the bank's portfolio. I have to use data from the file [Loan default](https://github.com/uzhegovaelena/riskanalysis/blob/main/Loan%20default.xlsx) which contains loans with a status indicator: defaulted(bad) or non-defaulted. 
 
 Here is short description of data columns:
 - BAD: 1 = applicant defaulted on loan or seriously delinquent; 0 = applicant paid loan.
